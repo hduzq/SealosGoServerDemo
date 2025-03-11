@@ -11,10 +11,6 @@
 - 返回 "Hello, World!" 消息
 - 支持浏览器和 curl 访问
 
-## 访问方式
-- 内部访问: http://go-server.ns-xbtdu1vh.svc.cluster.local:8080
-- 公网访问: https://mitlorjpbhzy.sealoshzh.site
-
 ## 开发环境
 - Ubuntu 24.04
 - 2 Core CPU
